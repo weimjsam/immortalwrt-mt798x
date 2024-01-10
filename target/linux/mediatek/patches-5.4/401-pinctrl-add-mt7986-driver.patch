@@ -31,6 +31,6 @@ index a74325a..d408585 100644
 
 --- a/drivers/clk/mediatek/clk-mt7986.c
 +++ b/drivers/clk/mediatek/clk-mt7986.c
-@@ -33,1 +33,1 @@
+@@ -31,1 +31,1 @@
 -	FIXED_CLK(CK_APMIXED_ARMPLL, CLK_XTAL, 2000000000),
 +	FIXED_CLK(CK_APMIXED_ARMPLL, CLK_XTAL, 2100000000),
